@@ -3,15 +3,15 @@ let handler = async (m, { conn, text }) => {
   let ext= `
 *INFORMATION OWNER*
 
-*Name* : Koko Pangeran
-*Age* : 6 th
-*Kelas* : 4 SD
+*Name* : Araa
+*Age* : 16 th
+*Kelas* : 10 SMK
 *Status* : Sendiri Gatau Ngapain😌
 
 *MEDIA SOCIAL*
 
-https://instagram.com/pangerann21_
-wa.me/6287832147584 Owner×Bot🗿
+https://instagram.com/itsmelaras_
+wa.me/6285759662788 Owner×Bot🗿
 *Facebook* : --
 *Youtube* : --
 
