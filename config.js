@@ -32,7 +32,7 @@ supaya saya menambahkan nama Anda disini
 global.linkGC = ['']// ganti jadi group lu
 
 //Berbagai itu indah @Parel / Rx
-global.owner = ['6287832147584', '6287832147584', '6287832147584'] // Put your number here
+global.owner = ['6285759662798', '22232104488'] // Put your number here
 global.mods = ['0'] // Want some help?
 global.prems = ['0'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
@@ -57,10 +57,10 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-//global.packname = 'ig:@pangerann21_'
-//global.author = '©Koko Pangeran'
-global.packname = 'ig:@pangerann21_'
-global.author = '©Koko Pangeran'
+//global.packname = 'ig:@itzmelaras_'
+//global.author = '©AraaChann'
+global.packname = 'ig:@itzmelaras_'
+global.author = '©AraaChann'
 
 // silakan di ganti klo mau
 global.wait = '_*Tunggu Sebentar Sedang Di Ewe‼️*_'
@@ -103,12 +103,12 @@ lolkey = '7fc314b6414b6ed2fc5c3058'
 lolKey = '7fc314b6414b6ed2fc5c3058'
 
 
-footer = '©ᴷᴼᴷᴼ ᴾᴬᴺᴳᴱᴿᴬᴺ'
-namabot = 'ᴷᴼᴷᴼ ᴾᴬᴺᴳᴱᴿᴬᴺ'
+footer = '©AraaChann'
+namabot = 'α r α Ᏼo͢Ꭲ✿'
 bc = namabot
-//bc = 'ᴷᴼᴷᴼ ᴾᴬᴺᴳᴱᴿᴬᴺ'
-namaowner = 'ᴷᴼᴷᴼ ᴾᴬᴺᴳᴱᴿᴬᴺ'
-ceco = 'Ganteng 🗿'
+//bc = 'α r α Ᏼo͢Ꭲ✿'
+namaowner = 'AraaChann'
+ceco = 'Wibutod 🗿'
 let tum = fs.readFileSync('./IMG-20220218-WA0242.jpg')
 let tum1 = fs.readFileSync('./IMG-20220218-WA0242.jpg')
 let tum2 = fs.readFileSync('./IMG-20220214-WA0499.jpg')
@@ -122,8 +122,8 @@ gc1 = ''
 gc2 = ''
 linkf = gc1
 wm_rey = 'https://raw.githubusercontent.com/RTeam1/database/'
-namaig = 'https://instagram.com/pangerann21_'
-namagh = 'Gaada Github‼️'
+namaig = 'https://instagram.com/itzmelaras_'
+namagh = 'https://github.com/Larasatilaras'
 kasihcaption = `support terus ${namaig}\ndan \n${namagh}`
 browsername = './RyuuTodd'
 titler = '𝙍𝙚𝙖𝙡 𝙁𝙖𝙢𝙨 𝙆𝙞𝙡𝙡𝙚𝙧'//'https://ryuuzeyy.xyz'
