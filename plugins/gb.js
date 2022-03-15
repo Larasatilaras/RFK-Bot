@@ -1,7 +1,7 @@
 let handler  = async (m, { conn, usedPrefix: _p }) => {
 let info = `SC VIA GITHUB JNGN LUPA FOLLOW
 Atau Bisa Lewat Link Dibawah Ini :
-https://instagram.com/pangerann21_
+https://instagram.com/itzmelaras_
 `.trim()
 
 conn.fakeReply(m.chat, info, '0@s.whatsapp.net', '*Tuh Instagram Owner Saya!*', 'status@broadcast') 
