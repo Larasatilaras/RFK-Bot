@@ -23,7 +23,7 @@ const defaultMenu = {
 ┃⬡ Uptime: *%uptime (%muptime)*
 ┃⬡ Database: %rtotalreg dari %totalreg
 ┃⬡ Insta:
-┃⬡ instagram.com/pangerann21_
+┃⬡ instagram.com/itzmelaras_
 ┗━━━━━━⬣`.trimStart(),
   header: '┏━━〔 %category 〕━⬣',
   body: '┃⬡%cmd %islimit %isPremium',
