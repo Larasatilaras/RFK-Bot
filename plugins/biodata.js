@@ -10,7 +10,7 @@ let handler = async (m, { conn, text }) => {
 
 *MEDIA SOCIAL*
 
-https://instagram.com/itsmelaras_
+https://instagram.com/itzmelaras_
 wa.me/6285759662788 Owner×Bot🗿
 *Facebook* : --
 *Youtube* : --
