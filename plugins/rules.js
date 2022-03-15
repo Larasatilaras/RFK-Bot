@@ -35,10 +35,10 @@ let handler  = async (m, { conn, usedPrefix }) => {
 ╠➥ *Uptime:* ${uptime}
 ║
 ╠═〘 DONASI 〙 ═
-╠➥ Pulsa : 0878-3214-7584
-╠➥ OVO : 0878-3214-7584
-╠➥ Dana : 0878-3214-7584
-╠➥ Gopay : 0878-3214-7584
+╠➥ Pulsa : 0857-5966-2798
+╠➥ OVO : 0857-5966-2798
+╠➥ Dana : 0857-5966-2798
+╠➥ Gopay : 0857-5966-2798
 ║
 ╠═ Request? ${package.bugs.url}
 ╠═ officiall Group *${conn.getName(conn.user.jid)}* :
