@@ -1,13 +1,13 @@
 let { MessageType } = require('@adiwajshing/baileys')
 let handler = async (m, { conn, text}) => {
-    if (!text) throw '_*Siape Yang Koko Pangeran Gak Mo Entod❓*_'
+    if (!text) throw '_*Siape Yang Araa Gak Mo Entod❓*_'
     let who
     if (m.isGroup) who = m.mentionedJid[0]
     else who = m.chat
     if (!who) throw 'Tag salah satu lah'
     let users = global.db.data.users
     users[who].banned = false
-    conn.reply(m.chat, `_*Ciee Gak Di Entod Koko Pangeran Lagi😚*_`, m)
+    conn.reply(m.chat, `_*Ciee Gak Di Entod Araa Lagi😚*_`, m)
 }
 handler.help = ['ban']
 handler.tags = ['owner']
