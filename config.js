@@ -32,7 +32,7 @@ supaya saya menambahkan nama Anda disini
 global.linkGC = ['']// ganti jadi group lu
 
 //Berbagai itu indah @Parel / Rx
-global.owner = ['6285759662798', '22232104488'] // Put your number here
+global.owner = ['6285759662798', '6285798579904'] // Put your number here
 global.mods = ['0'] // Want some help?
 global.prems = ['0'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
